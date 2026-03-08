@@ -6,6 +6,11 @@ Odin Recipes is a simple HTML project built as part of **The Odin Project Founda
 
 Each recipe page contains structured content including a description of the dish, a list of ingredients, and step-by-step instructions on how to prepare the meal. This project focuses on using semantic HTML elements and organizing content in a clear and readable format.
 
+## Live Demo
+The website is deployed using GitHUb Pages and can be accessed here:
+
+https://digitouriscool.github.io/odin-recipes/
+
 ## Project Goals
 
 This project helps reinforce the following HTML fundamentals:
